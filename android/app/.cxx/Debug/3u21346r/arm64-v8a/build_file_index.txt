@@ -1,0 +1,2 @@
+C:\Users\The Miraj\Downloads\dps\dps\node_modules\react-native-webview\android\build\generated\source\codegen\jni\CMakeLists.txt
+C:\Users\The Miraj\Downloads\dps\dps\node_modules\react-native\ReactAndroid\cmake-utils\default-app-setup\CMakeLists.txt

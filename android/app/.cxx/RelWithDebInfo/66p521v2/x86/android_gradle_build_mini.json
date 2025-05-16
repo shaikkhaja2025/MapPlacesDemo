@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "/Users/abhisheksingh/Desktop/AbhishekWork/dps/node_modules/react-native-webview/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/abhisheksingh/Desktop/AbhishekWork/dps/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/abhisheksingh/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/.cxx/RelWithDebInfo/66p521v2/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/abhisheksingh/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/.cxx/RelWithDebInfo/66p521v2/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "react_codegen_RNCWebViewSpec::@eb48929f9f7453740a6c": {
+      "artifactName": "react_codegen_RNCWebViewSpec",
+      "abi": "x86",
+      "runtimeFiles": []
+    },
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "x86",
+      "output": "/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/build/intermediates/cxx/RelWithDebInfo/66p521v2/obj/x86/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/abhisheksingh/.gradle/caches/8.13/transforms/72cde7dc85b5006383f56c98fcfedfa5/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/abhisheksingh/.gradle/caches/8.13/transforms/48de17ae001fd5f1bcfd4007338aaa12/transformed/react-android-0.79.2-release/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/abhisheksingh/.gradle/caches/8.13/transforms/48de17ae001fd5f1bcfd4007338aaa12/transformed/react-android-0.79.2-release/prefab/modules/reactnative/libs/android.x86/libreactnative.so"
+      ]
+    }
+  }
+}

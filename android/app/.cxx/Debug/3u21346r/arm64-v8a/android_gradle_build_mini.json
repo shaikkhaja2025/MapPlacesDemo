@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "C:\\Users\\The Miraj\\Downloads\\dps\\dps\\node_modules\\react-native-webview\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "C:\\Users\\The Miraj\\Downloads\\dps\\dps\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\The Miraj\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\The Miraj\\Downloads\\dps\\dps\\android\\app\\.cxx\\Debug\\3u21346r\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\The Miraj\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\The Miraj\\Downloads\\dps\\dps\\android\\app\\.cxx\\Debug\\3u21346r\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "react_codegen_RNCWebViewSpec::@eb48929f9f7453740a6c": {
+      "artifactName": "react_codegen_RNCWebViewSpec",
+      "abi": "arm64-v8a",
+      "runtimeFiles": []
+    },
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "arm64-v8a",
+      "output": "C:\\Users\\The Miraj\\Downloads\\dps\\dps\\android\\app\\build\\intermediates\\cxx\\Debug\\3u21346r\\obj\\arm64-v8a\\libappmodules.so",
+      "runtimeFiles": []
+    }
+  }
+}

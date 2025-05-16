@@ -1,0 +1,18 @@
+# ninja log v5
+1788	1879	1747164822895377529	/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/build/intermediates/cxx/Debug/2p1z1v3x/obj/x86_64/libappmodules.so	dd170e3967f7bef7
+0	1629	1747164822649016280	CMakeFiles/appmodules.dir/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	fff7df381dfc49f
+0	1788	1747164822807504842	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d61e00f35d26c680
+0	11	0	/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/.cxx/Debug/2p1z1v3x/x86_64/CMakeFiles/cmake.verify_globs	12ed7de1a94fc526
+0	10	0	/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/.cxx/Debug/2p1z1v3x/x86_64/CMakeFiles/cmake.verify_globs	12ed7de1a94fc526
+10	2212	1747165261315043248	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/States.cpp.o	3059e39992b40465
+7	3024	1747165262122191003	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/RNCWebViewSpecJSI-generated.cpp.o	3b44bd9b621a9f2a
+4	3058	1747165262158902933	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/RNCWebViewSpec-generated.cpp.o	210a550611af3030
+4	3475	1747165262562764123	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/EventEmitters.cpp.o	cdee72dc21ed8511
+8	3477	1747165262574857961	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ShadowNodes.cpp.o	30a5846251c02352
+4	3538	1747165262625267516	CMakeFiles/appmodules.dir/OnLoad.cpp.o	39dda21a9a6e0ae5
+5	4601	1747165262882520817	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/Props.cpp.o	1aa55a350c40fc5f
+4	4624	1747165263204739046	CMakeFiles/appmodules.dir/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	8ae2747490a59e07
+4	4658	1747165263046372986	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ComponentDescriptors.cpp.o	bf09984c8c172929
+4659	4993	1747165264094763758	/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/build/intermediates/cxx/Debug/2p1z1v3x/obj/x86_64/libappmodules.so	2cca3f5691dc4ef5
+1	14	0	/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/.cxx/Debug/2p1z1v3x/x86_64/CMakeFiles/cmake.verify_globs	12ed7de1a94fc526
+0	30	0	clean	4b686c7bbdc48ff4

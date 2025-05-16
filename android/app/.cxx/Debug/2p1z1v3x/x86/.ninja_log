@@ -1,0 +1,18 @@
+# ninja log v5
+2158	2315	1747164819741461028	/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/build/intermediates/cxx/Debug/2p1z1v3x/obj/x86/libappmodules.so	6a70c9b3c32131a5
+0	2157	1747164819581615219	CMakeFiles/appmodules.dir/OnLoad.cpp.o	f189449c8b8aa210
+0	1971	1747164819395180982	CMakeFiles/appmodules.dir/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	4fc25846f14c0f09
+2	18	0	/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/.cxx/Debug/2p1z1v3x/x86/CMakeFiles/cmake.verify_globs	9c5827cc7d9bf0fd
+0	10	0	/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/.cxx/Debug/2p1z1v3x/x86/CMakeFiles/cmake.verify_globs	9c5827cc7d9bf0fd
+10	1868	1747165256634809474	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/States.cpp.o	298a45f3f24becb2
+10	2570	1747165257323621088	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/RNCWebViewSpecJSI-generated.cpp.o	102e3309dba96cea
+9	2842	1747165257586785330	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/RNCWebViewSpec-generated.cpp.o	77cfb18f2125e73e
+9	3075	1747165257824191109	CMakeFiles/appmodules.dir/OnLoad.cpp.o	a567bc835a42e576
+10	3079	1747165257834105037	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ShadowNodes.cpp.o	9e1258f05a6db832
+9	3225	1747165257978273807	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/EventEmitters.cpp.o	3546eb9e68510236
+9	3409	1747165258166603443	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/Props.cpp.o	af9b4183acc6d731
+9	3564	1747165258321542764	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ComponentDescriptors.cpp.o	fe8fd50d23a24956
+8	3728	1747165258485342432	CMakeFiles/appmodules.dir/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	f6c6e167c883461a
+3728	3834	1747165258598171215	/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/build/intermediates/cxx/Debug/2p1z1v3x/obj/x86/libappmodules.so	f9204da3cff086a4
+1	10	0	/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/.cxx/Debug/2p1z1v3x/x86/CMakeFiles/cmake.verify_globs	9c5827cc7d9bf0fd
+0	23	0	clean	4b686c7bbdc48ff4

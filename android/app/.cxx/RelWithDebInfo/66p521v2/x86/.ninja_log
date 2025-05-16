@@ -1,0 +1,12 @@
+# ninja log v5
+1	13	0	/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/.cxx/RelWithDebInfo/66p521v2/x86/CMakeFiles/cmake.verify_globs	cece2cb6d52c3f09
+6	3676	1747166346950202438	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/States.cpp.o	c4849474b17d9f2f
+1	6198	1747166349478107258	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/RNCWebViewSpec-generated.cpp.o	fc899b57d9a20aec
+4	6231	1747166349514883880	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/RNCWebViewSpecJSI-generated.cpp.o	2ad794309a5199a0
+0	6552	1747166349834603133	CMakeFiles/appmodules.dir/OnLoad.cpp.o	267e82ae6f20c580
+6	6656	1747166349942721596	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ShadowNodes.cpp.o	253f2dfe5953d2d9
+3	7278	1747166350561180748	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/EventEmitters.cpp.o	f3184cbdde5df77e
+2	7639	1747166350928296217	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ComponentDescriptors.cpp.o	e8c32565d77d1147
+0	7760	1747166351050111211	CMakeFiles/appmodules.dir/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	57733a69435027cc
+3	7929	1747166351216774770	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/Props.cpp.o	c5baa0fafc735d92
+7930	8088	1747166351378053616	/Users/abhisheksingh/Desktop/AbhishekWork/dps/android/app/build/intermediates/cxx/RelWithDebInfo/66p521v2/obj/x86/libappmodules.so	6266aa03c556d013

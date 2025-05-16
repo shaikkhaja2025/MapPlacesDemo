@@ -1,0 +1,11 @@
+# ninja log v5
+5	79	0	C:/Users/The Miraj/Downloads/dps/dps/android/app/.cxx/Debug/3u21346r/arm64-v8a/CMakeFiles/cmake.verify_globs	d110ec0526c0dbae
+62	12901	7690665435118444	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/States.cpp.o	4888174b9aeb2a6c
+26	13713	7690665443322709	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/RNCWebViewSpecJSI-generated.cpp.o	844b61b779512067
+20	13873	7690665444917320	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/RNCWebViewSpec-generated.cpp.o	6951169b470a7aa1
+8	14843	7690665454607080	CMakeFiles/appmodules.dir/OnLoad.cpp.o	1d55e64f8deb35e3
+42	15165	7690665457736167	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/EventEmitters.cpp.o	e29fe87885220ff5
+49	15568	7690665461549466	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ShadowNodes.cpp.o	d6a80b6bf74e5c9c
+35	16299	7690665469126575	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/Props.cpp.o	26600dee71bf7a21
+14	16577	7690665471842188	RNCWebViewSpec_autolinked_build/CMakeFiles/react_codegen_RNCWebViewSpec.dir/react/renderer/components/RNCWebViewSpec/ComponentDescriptors.cpp.o	36870863ca1b95f3
+2	16740	7690665473560274	CMakeFiles/appmodules.dir/C_/Users/The_Miraj/Downloads/dps/dps/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	f8fb730eb7edde23
